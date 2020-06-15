@@ -1,0 +1,24 @@
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/Primer Programa/bin/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.deps.json
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/Primer Programa/bin/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.runtimeconfig.json
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/Primer Programa/bin/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.runtimeconfig.dev.json
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/Primer Programa/bin/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.dll
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/Primer Programa/bin/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.pdb
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/Primer Programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.csprojAssemblyReference.cache
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/Primer Programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.AssemblyInfoInputs.cache
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/Primer Programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.AssemblyInfo.cs
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/Primer Programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.csproj.CoreCompileInputs.cache
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/Primer Programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.dll
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/Primer Programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.pdb
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/Primer Programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.genruntimeconfig.cache
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/primer_programa/bin/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.deps.json
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/primer_programa/bin/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.runtimeconfig.json
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/primer_programa/bin/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.runtimeconfig.dev.json
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/primer_programa/bin/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.dll
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/primer_programa/bin/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.pdb
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/primer_programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.csprojAssemblyReference.cache
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/primer_programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.AssemblyInfoInputs.cache
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/primer_programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.AssemblyInfo.cs
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/primer_programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.csproj.CoreCompileInputs.cache
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/primer_programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.dll
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/primer_programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.pdb
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/primer_programa/obj/Debug/netcoreapp3.1/Fundamentos de C# con NET Core.genruntimeconfig.cache

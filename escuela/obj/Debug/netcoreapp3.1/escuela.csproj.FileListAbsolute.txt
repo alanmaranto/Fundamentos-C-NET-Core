@@ -1,0 +1,12 @@
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/escuela/bin/Debug/netcoreapp3.1/escuela.deps.json
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/escuela/bin/Debug/netcoreapp3.1/escuela.runtimeconfig.json
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/escuela/bin/Debug/netcoreapp3.1/escuela.runtimeconfig.dev.json
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/escuela/bin/Debug/netcoreapp3.1/escuela.dll
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/escuela/bin/Debug/netcoreapp3.1/escuela.pdb
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/escuela/obj/Debug/netcoreapp3.1/escuela.csprojAssemblyReference.cache
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/escuela/obj/Debug/netcoreapp3.1/escuela.AssemblyInfoInputs.cache
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/escuela/obj/Debug/netcoreapp3.1/escuela.AssemblyInfo.cs
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/escuela/obj/Debug/netcoreapp3.1/escuela.csproj.CoreCompileInputs.cache
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/escuela/obj/Debug/netcoreapp3.1/escuela.dll
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/escuela/obj/Debug/netcoreapp3.1/escuela.pdb
+/Users/alanmaranto/Documents/Platzi/Desarrollo de Videojuegos con Unity/Fundamentos de C# con NET Core/escuela/obj/Debug/netcoreapp3.1/escuela.genruntimeconfig.cache
